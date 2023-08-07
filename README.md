@@ -6,7 +6,7 @@ Bu uygulamada React.js kullanarak bir alışveriş sitesinin benzeri yapılmaya 
 
 ## Canlı Demo
 
-- [Click Here](https://shopping-react-basket.netlify.app/)
+- [Buraya Tıklayın](https://shopping-react-basket.netlify.app/)
 
 
 ## Resim
