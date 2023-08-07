@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Halo Sneakers",
+      "price": 1500,
+      "stock": 50,
+      "img": "/img/Prod1.webp",
+      "size": "L",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+    },
+    {
+      "id": 2,
+      "name": "Fug Monstone",
+      "price": 1000,
+      "stock": 30,
+      "img": "/img/Prod2.webp",
+      "size": "L",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+    },
+    {
+      "id": 3,
+      "name": "Lagu Sneakers",
+      "price": 1200,
+      "stock": 20,
+      "img": "/img/Prod3.webp",
+      "size": "L",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+    },
+    {
+      "id": 4,
+      "name": "Doja Sneakers",
+      "price": 1700,
+      "stock": 60,
+      "img": "/img/Prod4.webp",
+      "size": "L",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+    },
+    {
+      "id": 5,
+      "name": "Santo Fairway",
+      "price": 1400,
+      "stock": 20,
+      "img": "/img/Prod5.webp",
+      "size": "L",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+    }
+  ]
+}
