@@ -1,6 +1,6 @@
 # React Alışveriş Sepeti
 
-Bu uygulama React.js kullanarak bir alışveriş sitesinin benzeri yapılmaya çalışılmıştır.
+Bu uygulamada React.js kullanarak bir alışveriş sitesinin benzeri yapılmaya çalışılmıştır.
 
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
