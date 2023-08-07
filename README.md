@@ -1,4 +1,4 @@
-# React Alışveriş Sepeti
+# React-Alışveriş Sepeti
 
 Bu uygulamada React.js kullanarak bir alışveriş sitesinin benzeri yapılmaya çalışılmıştır.
 
