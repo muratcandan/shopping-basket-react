@@ -6,7 +6,7 @@
 - Artı ve eksi butonlarına tıklanarak ürünleri sepete atıp sepetten çıkartabilirsiniz.
 - Sepette alınan ürünler ve toplam tutar yansıtılmıştır.
 - Sepetteki check-box'a tıklayarak %20'lik indirim uygulanır.
-- Alışveriş tamamla butonuna basıldığında alınan ürünler ve fiyat bilgileri mail adresine yönlendirilmektedir.
+- Alışverişi tamamla butonuna basıldığında alınan ürünler ve fiyat bilgileri mail adresine yönlendirilmektedir.
 
 ## Canlı Demo
 
